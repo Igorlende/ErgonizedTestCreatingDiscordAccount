@@ -1,4 +1,4 @@
 run main.py
 add your token 2captcha and proxies(http type) to config, proxy example: user:pass@10.10.1.10:3128
-
+use python 3.8
 
